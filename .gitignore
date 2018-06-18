@@ -1,0 +1,12 @@
+.vagrant/
+.idea/
+
+.DS_Store
+**/.DS_Store
+._*
+log/*
+temp
+
+stack/hosts
+stack/token-*
+ubuntu-bionic-18.04-cloudimg-console.log
